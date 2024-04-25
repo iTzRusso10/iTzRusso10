@@ -20,7 +20,7 @@ heigth= "300px"     src="https://camo.githubusercontent.com/61491d59e71fec5c7949
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/giuseppe russo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giuseppe russo" height="30" width="40" /></a>
-<a href="https://instagram.com/giuseppe.russo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giuseppe.russo_" height="30" width="40" /></a>
+<a href="https://instagram.com/giuseppe.russo._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giuseppe.russo_" height="30" width="40" /></a>
 </p>
 
 <h1 align="left" fontsize ="30px">💻 Tech Stack:</h1>
