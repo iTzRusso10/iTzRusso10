@@ -1,7 +1,8 @@
 
 <img align="right" 
 width= "420px"
-heigth= "300px"     src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
+heigth= "300px"     
+src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 <h1 align="left">Hi 👋, I'm Giuseppe Russo</h1>
 
 <h3 align="left">👨‍💻 I'm a Web Developer</h3>
@@ -18,7 +19,6 @@ heigth= "300px"     src="https://user-images.githubusercontent.com/109351602/202
 
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
 <a href="https://fb.com/giuseppe russo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giuseppe russo" height="30" width="40" /></a>
 <a href="https://instagram.com/giuseppe.russo._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giuseppe.russo_" height="30" width="40" /></a>
 </p>
