@@ -30,11 +30,4 @@ heigth= "300px"     src="https://camo.githubusercontent.com/61491d59e71fec5c7949
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzrusso10" alt="itzrusso10" /></a> </p>
 
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=itzrusso10&show_icons=true&locale=en" alt="itzrusso10" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzrusso10&show_icons=true&locale=en&layout=compact" alt="itzrusso10" /></p>
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itzrusso10&" alt="itzrusso10" /></p>
 <img src="https://komarev.com/ghpvc/?username=itzrusso10&label=Profile%20views&color=0e75b6&style=flat" alt="itzrusso10" /> </p>
