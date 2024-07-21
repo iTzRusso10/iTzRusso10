@@ -10,7 +10,7 @@ src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541
 <ul> 
   <li>🌍 I'm based in Italy</li>
   <li>📧 You can contact me at giusepperusso1003@gmail.com</li>
-  <li>🧠 I'm learning HTML,CSS,JS,TS,REACT,NODE.JS</li>
+  <li>🧠 Tech Stack: HTML,CSS,JS,TAILWIND,TYPESCRIPT,REACT,NEXT JS 14,NODE.JS</li>
   <li>👨‍💻 My LinkedIn account: https://www.linkedin.com/in/giuseppe-russo-792900264/</li>
 </ul>
 
